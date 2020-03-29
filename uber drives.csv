@@ -1,0 +1,36 @@
+START_DATE,END_DATE,CATEGORY,START,STOP,MILES
+1/1/2016 21:11,1/1/2016 21:45,Bussiness,Fort Pierce,West Palm Beach,10
+2/1/2016 21:11,2/1/2016 21:45,Bussiness,Fort Pierce,West Palm Beach,6.1
+3/1/2016 21:11,3/1/2016 21:45,Bussiness,Fort Pierce,Palm Beach,7.1
+4/1/2016 21:11,4/1/2016 21:45,Bussiness,Fort Pierce,Cary,8.1
+5/1/2016 21:11,5/1/2016 21:45,Bussiness,West Palm Beach,Cary,9.1
+6/1/2016 21:11,6/1/2016 21:45,Bussiness,West Palm Beach,Jamaica,10.1
+7/1/2016 21:11,7/1/2016 21:45,Bussiness,Palm Beach,Fort Pierce,11.1
+8/1/2016 21:11,8/1/2016 21:45,Bussiness,Cary,Fort Pierce,12.1
+9/1/2016 21:11,9/1/2016 21:45,Bussiness,Cary,Fort Pierce,13.1
+10/1/2016 21:11,10/1/2016 21:45,Bussiness,Jamaica,Fort Pierce,14.1
+11/1/2016 21:11,11/1/2016 21:45,Bussiness,Fort Pierce,West Palm Beach,15.1
+12/1/2016 21:11,12/1/2016 21:45,Bussiness,Fort Pierce,West Palm Beach,16.1
+13-01-2016 21:11,13-01-2016 21:45,Bussiness,Fort Pierce,Palm Beach,17.1
+14-01-2016 21:11,14-01-2016 21:45,Bussiness,Fort Pierce,Cary,18.1
+15-01-2016 21:11,15-01-2016 21:45,Bussiness,West Palm Beach,Cary,19.1
+16-01-2016 21:11,16-01-2016 21:45,Bussiness,West Palm Beach,Jamaica,20.1
+17-01-2016 21:11,17-01-2016 21:45,Bussiness,Palm Beach,Fort Pierce,21.1
+18-01-2016 21:11,18-01-2016 21:45,Bussiness,Cary,Fort Pierce,22.1
+19-01-2016 21:11,19-01-2016 21:45,Bussiness,Cary,Fort Pierce,23.1
+20-01-2016 21:11,20-01-2016 21:45,Bussiness,Jamaica,Fort Pierce,24.1
+21-01-2016 21:11,21-01-2016 21:45,Bussiness,Fort Pierce,West Palm Beach,25.1
+22-01-2016 21:11,22-01-2016 21:45,Bussiness,Fort Pierce,West Palm Beach,26.1
+23-01-2016 21:11,23-01-2016 21:45,Bussiness,Fort Pierce,Palm Beach,27.1
+24-01-2016 21:11,24-01-2016 21:45,Bussiness,Fort Pierce,Cary,28.1
+25-01-2016 21:11,25-01-2016 21:45,Bussiness,West Palm Beach,Cary,29.1
+26-01-2016 21:11,26-01-2016 21:45,Bussiness,West Palm Beach,Jamaica,30.1
+27-01-2016 21:11,27-01-2016 21:45,Bussiness,Palm Beach,West Palm Beach,31.1
+28-01-2016 21:11,28-01-2016 21:45,Bussiness,Cary,West Palm Beach,32.1
+29-01-2016 21:11,29-01-2016 21:45,Bussiness,Cary,Palm Beach,5.1
+30-01-2016 21:11,30-01-2016 21:45,Bussiness,Jamaica,Cary,6.1
+31-01-2016 21:11,31-01-2016 21:45,Bussiness,West Palm Beach,Cary,7.1
+1/2/2016 21:11,1/2/2016 21:45,Bussiness,West Palm Beach,Jamaica,8.1
+2/2/2016 21:11,2/2/2016 21:45,Bussiness,Palm Beach,West Palm Beach,9.1
+3/2/2016 21:11,3/2/2016 21:45,Bussiness,Cary,West Palm Beach,10.1
+4/2/2016 21:11,4/2/2016 21:45,Bussiness,Cary,Palm Beach,11.1
